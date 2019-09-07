@@ -1,0 +1,3 @@
+[submodule "abstract-things"]
+	path = abstract-things
+	url = https://github.com/jirufik/abstract-things.git
