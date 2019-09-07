@@ -17,7 +17,8 @@
     "miio": "./cli/index.js"
   },
   "scripts": {
-    "test": "node_modules/.bin/eslint ."
+    "test": "node_modules/.bin/eslint .",
+    "miioTest": "node miioTest.js"
   },
   "engines": {
     "node": ">=6.6.0"
